@@ -1,0 +1,3 @@
+# aulagit
+
+## novo arquivo README
